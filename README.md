@@ -14,4 +14,9 @@ If you accidentally visit a Daily Mail page, this extension will replace it
 with a version filtered through Instapaper’s page cleaner, removing the Sidebar
 of Shame, the comments, and various other junk.
 
+## Installation
+
+Visit [Mail Cleaner on the Google Web Store][gws] and choose *Add to Chrome*.
+
 [ab]: http://blog.andybeaumont.com/post/29470498530
+[gws]: https://chrome.google.com/webstore/detail/ncghnblnficlppbkjdnfljpackcjhfma
