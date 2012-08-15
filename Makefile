@@ -2,10 +2,10 @@ SOURCES=background.js COPYING.md icon128.png icon48.png icon.svg manifest.json R
 
 .PHONY: clean
 
-mailcleaner.crx: $(SOURCES)
-	mkdir -p build/mailcleaner
-	cp $(SOURCES) build/mailcleaner/
-	google-chrome --pack-extension=build/mailcleaner --pack-extension-key=mailcleaner.pem
+mailcleaner.zip: $(SOURCES)
+	mkdir -p build
+	cp $(SOURCES) build/
+	zip $@ $(SOURCES)
 
 clean:
 	rm -rf build
