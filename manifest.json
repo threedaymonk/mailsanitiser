@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "description": "Redirects Daily Mail pages through Instapaper to eliminate the sidebar of shame",
+  "icons": {
+    "128": "icon128.png",
+    "48": "icon48.png"
+  },
+  "name": "Mail Cleaner",
+  "permissions": ["tabs"],
+  "version": "1.0.0"
+}
