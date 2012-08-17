@@ -8,7 +8,7 @@
     "128": "icon128.png",
     "48": "icon48.png"
   },
-  "name": "Mail Cleaner",
+  "name": "Mail Sanitiser",
   "permissions": ["tabs"],
-  "version": "1.0.1"
+  "version": "1.0.2"
 }

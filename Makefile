@@ -2,8 +2,8 @@ SOURCES=background.js COPYING.md icon128.png icon48.png icon.svg manifest.json R
 
 .PHONY: clean
 
-mailcleaner.zip: $(SOURCES)
+mailsanitiser.zip: $(SOURCES)
 	zip $@ $(SOURCES)
 
 clean:
-	rm -f mailcleaner.zip
+	rm -f mailsanitiser.zip
