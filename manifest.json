@@ -5,7 +5,7 @@
     "css": ["sanitise.css"],
     "js": ["sanitise.js"]
   }],
-  "description": "Redirects Daily Mail pages through Instapaper to eliminate the sidebar of shame",
+  "description": "Removes everything except the article text from Daily Mail pages",
   "icons": {
     "128": "icon128.png",
     "48": "icon48.png"
