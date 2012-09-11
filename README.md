@@ -10,9 +10,9 @@ Safari extension][ab]:
 > the roof when you accidentally read one of the comments? Well, here’s a
 > safety net for your browser.
 
-If you accidentally visit a Daily Mail page, this extension will replace it
-with a version filtered through Instapaper’s page cleaner, removing the Sidebar
-of Shame, the comments, and various other junk.
+If you accidentally visit a Daily Mail page, this extension will strip out
+everything except the article, removing the Sidebar of Shame, the comments, and
+various other junk.
 
 ## Installation
 

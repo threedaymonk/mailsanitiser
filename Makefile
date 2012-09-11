@@ -1,4 +1,4 @@
-SOURCES=background.js COPYING.md icon128.png icon48.png icon.svg manifest.json README.md
+SOURCES=sanitise.js sanitise.css COPYING.md icon128.png icon48.png icon.svg manifest.json README.md
 
 .PHONY: clean
 

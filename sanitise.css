@@ -1,0 +1,16 @@
+html {
+  width: 100%;
+  font-size: 18px;
+  background-color: #eee;
+  font-family: serif;
+}
+body {
+  margin: 0 auto;
+  max-width: 30em;
+}
+h1 {
+  font-family: sans-serif;
+}
+div.thinCenter p {
+  font-size: 80%;
+}
