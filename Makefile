@@ -3,6 +3,7 @@ SOURCES=sanitise.js sanitise.css COPYING.md icon128.png icon48.png icon.svg mani
 .PHONY: clean
 
 mailsanitiser.zip: $(SOURCES)
+	rm -f $@
 	zip $@ $(SOURCES)
 
 clean:
